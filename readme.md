@@ -108,6 +108,6 @@ Para ejecutar los notebooks en un entorno diferente como Amazon EMR o Ubuntu, se
 * Ram = 16gb (recomendado 32gb).
 * Espacio en disco = 5gb
 
-## App Asset
+## Vista de la aplicación
 
 ![Vista de la aplicación](img/app.png)

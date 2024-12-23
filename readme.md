@@ -110,4 +110,4 @@ Para ejecutar los notebooks en un entorno diferente como Amazon EMR o Ubuntu, se
 
 ## App Asset
 
-![Aplicacion][app]
+![Vista de la aplicación](img/app.png)
